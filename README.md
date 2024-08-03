@@ -48,5 +48,5 @@ Adjustments to product prices are based on demand levels, competitor prices, and
 - Requires a webcam for live video feed.
 - The dress image should have an alpha channel for transparency, allowing realistic overlay on the upper body.
 - OpenCV is used for face and upper body detection.
-- Feel free to explore, modify, and enhance these scripts for your projects or use cases. If you encounter any issues or have suggestions for improvement, please let me know at rupinajay@gmail.com.
+- Feel free to explore, modify, and enhance these scripts for your projects or use cases.
 
